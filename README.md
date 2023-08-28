@@ -1,4 +1,4 @@
-# w3p1-css_codeacademy
+# w4p1-css_codeacademy
 
 1. Selesaikan course pada url https://www.codecademy.com/enrolled/courses/learn-css dan https://www.codecademy.com/enrolled/courses/learn-intermediate-css
 2. Screen capture bukti penyelesaian tiap syllabus dibawah:
