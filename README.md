@@ -10,3 +10,15 @@
     - Typography
     - Layout with flexbox
     - Grid
+#Jawab
+![Alt text](image.png)
+- Syntax and Selector
+- Visual Rules
+- The Box Model
+- Display and Positioning
+- Colors
+- Typography
+![Alt text](image-1.png)
+- Layout with flexbox
+![Alt text](image-2.png)
+- Grid
